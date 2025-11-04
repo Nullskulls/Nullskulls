@@ -8,7 +8,8 @@ I'm a 16 year old programmer from Egypt just having fun
 
 ---
 
-## Projects i like
+## Projects
+<br>
 
 * **ChessEngine** – A chess engine i made in python with move validation and more
 * **CLISnakeGame** – Imagine the classic snake game but laggy
@@ -21,6 +22,7 @@ I'm a 16 year old programmer from Egypt just having fun
 <br>
 
 * Email: nullskulls@proton.me
+<br>
 * Or DM me on Slack
 
 <br>
