@@ -8,15 +8,7 @@ I'm a 16 year old programmer from Egypt just having fun
 
 ---
 
-## Toolbox
-
-* **Languages**: C, Python, Java, C++, SQL
-* **Platforms**: Linux (Fedora/Ubuntu), Windows (CLion/MinGW), Azure
-* **Dev**: CMake, Git, GitHub Actions/CI, systemd, tmux, SQLite
-
----
-
-## Featured
+## Projects i like
 
 * **ChessEngine** – A chess engine i made in python with move validation and more
 * **CLISnakeGame** – Imagine the classic snake game but laggy
@@ -29,6 +21,7 @@ I'm a 16 year old programmer from Egypt just having fun
 <br>
 
 * Email: nullskulls@proton.me
+* Or DM me on Slack
 
 <br>
 
