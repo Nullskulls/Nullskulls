@@ -22,7 +22,9 @@ I'm a 16 year old programmer from Egypt just having fun
 <br>
 
 * Email: nullskulls@proton.me
+
 <br>
+
 * Or DM me on Slack
 
 <br>
